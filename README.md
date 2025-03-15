@@ -4,7 +4,7 @@ I'm a Software Web Developer currently pursuing a B.Tech in Chemical Engineering
 
 
 # 💫 About Me:
-🔭 I’m currently working on enhancing software development skills.<br>👯 I’m looking to collaborate on  open-source React.js projects and innovative frontend applications.<br>🤝 I’m looking for help with optimizing performance, scalability, and state management in web applications.<br>🌱 I’m currently learning React.js and AI integration into web apps.<br>💬 Ask me about React.js, frontend development, UI/UX, and best coding practices.<br>⚡ Fun fact : I studied Chemical Engineering at IIT Guwahati but discovered my true passion in coding & frontend development.
+🔭 I’m currently working on enhancing software development skills.<br> 🌱 I’m currently learning React.js and AI integration into web apps.<br>💬 Ask me about React.js, frontend development, UI/UX, and best coding practices.<br>⚡ Fun fact : I studied Chemical Engineering at IIT Guwahati but discovered my true passion in coding & frontend development.
 
 
 ## 🌐 Socials:
